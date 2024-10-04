@@ -1,3 +1,6 @@
+// COMSC-210 | Lab 16 | Ali Saeed
+// ide used: neovim/vscode
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
